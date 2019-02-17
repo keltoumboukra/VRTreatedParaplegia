@@ -40,5 +40,15 @@ We used unity in order to utilise both Oculus and the VR controller together. We
 	- Run the simulation in Unity by clicking on the play button (top of screen)
 	- Put the Oculus on your face
 	- Control robot's arms using the controller
+	
+### Google Could PLatform
+	- When recording videos/photos of the what is seen through the Oculus helmet, they're pushed to the Google Cloud Platform where they're stored:
+	
+Project name: OculusDriveBaxter
+Project ID: oculusdrivebaxter
+Project number: 368147340556
+
+
+
 
 ENJOY!
