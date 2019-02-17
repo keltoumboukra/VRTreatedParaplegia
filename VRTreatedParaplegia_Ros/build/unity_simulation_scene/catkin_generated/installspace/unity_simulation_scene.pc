@@ -1,0 +1,8 @@
+prefix=/home/mlh-admin/ros_ws/install
+
+Name: unity_simulation_scene
+Description: Description of unity_simulation_scene
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mlh-admin/ros_ws/install/lib 
+Requires: 
