@@ -1,4 +1,4 @@
-### VRTreatedParaplegia
+### VR to Treate Paraplegia
 
 ### Date
 Sunday, 17 February
@@ -28,12 +28,12 @@ We used unity in order to utilise both Oculus and the VR controller together. We
 	
 ### Installation
 	- Windows 10:
-		Open ``VRTreatedParaplegia_Unity`` in Unity 
+		Open `VRTreatedParaplegia_Unity` in Unity 
 		
 	- LINUX:
-		a. Run ``catkin_make``
-		b. Run ``catkin_make install``
-		c. Run ``roslaunch gazebo_simulation_scene gazebo_simulation_scene.launch``
+		a. Run `catkin_make`
+		b. Run `catkin_make install`
+		c. Run `roslaunch gazebo_simulation_scene gazebo_simulation_scene.launch`
 	
 ### Usage
 	- Run the Linux installation and leave it in stand by
