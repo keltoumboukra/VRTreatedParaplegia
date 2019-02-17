@@ -10,7 +10,7 @@ Sunday, 17 February
 	- Austyn TEMPESTA: ajt2158@columbia.edu
 
 ### Project Aim
-We used unity in order to utilise both Oculus and the VR controller together. We they connected the Oculus to a virtual robot in order to navigate enviornments and interact with 3-d objects in space. Unity used of VR to interact with Simulated Robot Arms.
+We used Unity in order to utilise both Oculus and the VR controller together. We they connected the Oculus to a virtual robot in order to navigate enviornments and interact with 3-d objects in space. Unity used of VR to interact with Simulated Robot Arms.
 
 ### Hardware
 	- 1 computer running on Windows
