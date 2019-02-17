@@ -37,8 +37,8 @@ We used unity in order to utilise both Oculus and the VR controller together. We
 	
 ### Usage
 	- Run the Linux installation and leave it in stand by
-	- Run the simulation in Unity by clicking on the play button (top screen)
-	- Set the Oculus on your face
+	- Run the simulation in Unity by clicking on the play button (top of screen)
+	- Put the Oculus on your face
 	- Control robot's arms using the controller
 
 ENJOY!
