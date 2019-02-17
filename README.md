@@ -44,9 +44,9 @@ We used unity in order to utilise both Oculus and the VR controller together. We
 ### Google Could PLatform
 	- When recording videos/photos of the what is seen through the Oculus helmet, they're pushed to the Google Cloud Platform where they're stored:
 	
-Project name: OculusDriveBaxter
+```Project name: OculusDriveBaxter
 Project ID: oculusdrivebaxter
-Project number: 368147340556
+Project number: 368147340556```
 
 
 
