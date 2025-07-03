@@ -5,7 +5,7 @@ Sunday, 17 February
 
 ### Authors
 	- Valentin VOISIN: voisin.valentin.cpge@gmail.com
-	- Keltoum BOUKRA: keltoum@labgeni.us
+	- Keltoum BOUKRA: keltoum.boukra96@gmail.com
 	- Alexandre ISAACAR: alexandreisaac399@gmail.com
 	- Austyn TEMPESTA: ajt2158@columbia.edu
 
